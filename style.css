@@ -1,0 +1,33 @@
+.card{
+    text-align: center;
+    border-style: solid;
+    border-color: rgb(249, 216, 155);
+    border-width: 8px;
+    border-radius: 34px;
+    margin: 15px;
+    padding: 23px;
+    background-color: antiquewhite;
+    color: rgb(13, 13, 13);
+    box-shadow: 2px 6px 8px 0 rgba(0, 0, 0, 0.2), 2px 8px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.img{
+    width: 100%;
+    border-radius: 12px;
+}
+
+
+
+.body{
+    border-style: none;
+    border-radius: 12px;
+}
+
+.mh{
+    text-decoration: underline;
+    font-size: larger;
+    font-weight: bolder;
+}
+.p1{
+    font-size: 15px;
+}
